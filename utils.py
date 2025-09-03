@@ -1,4 +1,3 @@
-# utils.py
 FILES = "abcdefgh"
 RANKS = "12345678"
 
